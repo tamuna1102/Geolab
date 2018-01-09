@@ -1,0 +1,40 @@
+.header {
+	height: 100px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	
+}
+.logo img {
+	width: 192px;
+	display: inline-block;
+	float: left;
+}
+.social-icons{
+	display: inline-block;
+	float: right;
+}
+.navigation{
+	font-family: Roboto;
+	font-size: 24px;
+	text-transform: uppercase;
+	display: inline-block;
+	
+}
+.navigation ul li a {
+	text-decoration: none;
+
+}
+.navigation ul li {
+	display: inline-block;
+}
+.social-icons ul li a img{
+	height: 30px;
+}
+.social-icons ul li{
+	display: inline-block;
+}
+.clear{
+	clear: both;
+}
